@@ -25,6 +25,7 @@ public class Camp1SpringApplication   {
      System.out.println("camp devops started");
      System.out. println("instruction 1 dev");
      System.out. println("instruction  2 dev");
+     System.out. println("instruction  3 dev");
      
      
  
