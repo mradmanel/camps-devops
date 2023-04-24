@@ -22,8 +22,11 @@ public class Camp1SpringApplication   {
         Path path = Paths.get(ArticleController.uploadDirectory);
         Files.createDirectory(path);
 		//System.out.println("Couche data");
+        System.out. println("camp devops started");
+        System.out. println("instruction numero 1");
       
-      
+       
+
  
     
       
